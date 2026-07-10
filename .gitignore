@@ -1,0 +1,16 @@
+# RStudio user state
+.Rproj.user/
+*.Rproj
+
+# Quarto/R rendering output
+_site/
+
+# R objects
+.Rhistory
+.RData
+.Ruserdata
+
+# Temporary files
+*.tmp
+/.quarto/
+**/*.quarto_ipynb

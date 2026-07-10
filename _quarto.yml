@@ -1,0 +1,32 @@
+project:
+  type: website 
+
+website:
+  title: "Confiteor"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About 
+  page-footer:
+    left: "Confiteor - I Confess"
+    right: "Maintained by Kyle Gontjes. Built with Quarto." 
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    smooth-scroll: true
+
+editor: visual
+
+execute:
+  freeze: auto
+
