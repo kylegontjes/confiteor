@@ -5,3 +5,5 @@ title: "Welcome"
 ## Confiteor - 'I confess'
 
 I hope that this inspires you to read and learn about the numerous different confessional texts found in the Christian traditions.
+
+This website is a work in progress.

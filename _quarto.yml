@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Confiteor"
+  site-url: "https://kylegontjes.github.io/confiteor/"
   navbar:
     background: primary
     search: true
@@ -13,7 +14,7 @@ website:
         text: About 
   page-footer:
     left: "Confiteor - I Confess"
-    right: "Maintained by Kyle Gontjes. Built with Quarto." 
+    right: "Maintained by Kyle Gontjes. Built with Quarto."  
 
 format:
   html:
