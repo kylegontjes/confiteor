@@ -1,8 +1,8 @@
 ---
-title: "Welcome"
+title: "Confiteor - I confess"
 ---
 
-## Confiteor - 'I confess'
+## Welcome
 
 I hope that this inspires you to read and learn about the numerous different confessional texts found in the Christian traditions.
 
