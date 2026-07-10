@@ -1,37 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Confiteor is Latin for “I confess.” This site serves as an encouragement to read and engage with the texts that we might ‘confess.’"
-  },
-  {
-    "objectID": "about.html#inspiration",
-    "href": "about.html#inspiration",
-    "title": "About",
-    "section": "",
-    "text": "Confiteor is Latin for “I confess.” This site serves as an encouragement to read and engage with the texts that we might ‘confess.’"
-  },
-  {
-    "objectID": "about.html#content",
-    "href": "about.html#content",
-    "title": "About",
-    "section": "Content",
-    "text": "Content\nThere are several projects under consideration, including the curation of daily readings from confessions and a daily devotional feed."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Confiteor - I confess",
     "section": "",
-    "text": "I hope that this inspires you to read and learn about the numerous different confessional texts found in the Christian traditions.\nThis website is a work in progress."
+    "text": "Confiteor is Latin for “I confess.”\nI hope that this inspires you to read and learn about the numerous different confessional texts found in the Christian traditions.\nThis website is a work in progress."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Confiteor - I confess",
     "section": "",
-    "text": "I hope that this inspires you to read and learn about the numerous different confessional texts found in the Christian traditions.\nThis website is a work in progress."
+    "text": "Confiteor is Latin for “I confess.”\nI hope that this inspires you to read and learn about the numerous different confessional texts found in the Christian traditions.\nThis website is a work in progress."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Confiteor is Latin for “I confess.”\nThis site serves as an encouragement to read and engage with the texts that we might ‘confess.’"
+  },
+  {
+    "objectID": "about.html#inspiration",
+    "href": "about.html#inspiration",
+    "title": "About",
+    "section": "",
+    "text": "Confiteor is Latin for “I confess.”\nThis site serves as an encouragement to read and engage with the texts that we might ‘confess.’"
+  },
+  {
+    "objectID": "about.html#content",
+    "href": "about.html#content",
+    "title": "About",
+    "section": "Content",
+    "text": "Content\nThere are several projects under consideration.\nAt the moment, the following are taking priority:\n\nDaily readings from a confession\nDaily devotional RSS feed."
   }
 ]
