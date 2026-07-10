@@ -4,8 +4,16 @@ title: "About"
 
 ## Inspiration
 
-Confiteor is Latin for "I confess." This site serves as an encouragement to read and engage with the texts that we might 'confess.'
+Confiteor is Latin for "I confess." 
+
+This site serves as an encouragement to read and engage with the texts that we might 'confess.'
 
 ## Content
 
-There are several projects under consideration, including the curation of daily readings from confessions and a daily devotional feed. 
+There are several projects under consideration. 
+
+At the moment, the following are taking priority:
+
+1. Daily readings from a confession 
+
+2. Daily devotional RSS feed. 
